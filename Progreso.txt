@@ -1,5 +1,5 @@
 Factory = Bien 100%
-Factory con gui = Falta actualizar diagramas de secuencia
+Factory con gui = Secuencia Actualizados
 Singleton = Faltan diagramas de secuencia
 Prototype = nada
 Abstract Factory = nada
